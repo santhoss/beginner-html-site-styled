@@ -46,7 +46,7 @@ pipeline {
         }
       }
    }   
-   poset {
+   post {
        success  {
            echo ' Deployment Successsful'
        }
